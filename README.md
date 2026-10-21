@@ -1,6 +1,6 @@
 <div align="center">
 
-# Wild Kernels for Android devices running GKI 2.0 (5.10+)
+# Wild Kernels for Android devices running GKI 2.0 (5.15) creek
 
 [![License: GPL-3.0](https://img.shields.io/badge/license-GPL--3.0-blue.svg)](LICENSE)
 [![Third-Party Notices](https://img.shields.io/badge/notices-THIRD__PARTY_NOTICES-lightgrey.svg)](THIRD_PARTY_NOTICES.md)
@@ -44,17 +44,6 @@ Fork the repository and follow **[Build Your Own Kernel](docs/build-from-fork.md
 ## Installation
 
 See **[Installation Guide](https://github.com/WildKernels/GKI_KernelSU_SUSFS/wiki/Installation)**.
-
----
-
-## Our Projects
-
-| Device | Repository | Description |
-| -------- | ------------ | ------------- |
-| **Multi** | [GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) | Google GKI sources — built to be generic and work across many devices |
-| **Pixel** | [Sultan_KernelSU_SUSFS](https://github.com/WildKernels/Sultan_KernelSU_SUSFS) | Custom kernels for specific Pixel devices — built from Sultan sources |
-| **Samsung** | [Samsung_KernelSU_SUSFS](https://github.com/WildKernels/Samsung_KernelSU_SUSFS) | Built from Samsung sources and manifest |
-| **OnePlus** | [OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS) | Built from OnePlus sources and manifest |
 
 ---
 
